@@ -1,0 +1,13 @@
+{
+    "level1": {
+        "level2": {
+            "key1": "value1",
+            "sublist": [
+                {"newkey": "subvalue1", "sublist2": [{"key": "val"}, {"key": "val4"}]},
+                {"subkey2": "subvalue2", "sublist2": [{"key": "val2"}]},
+                {"subkey3": "subvalue3", "sublist2": [{"key": "val3"}]}
+            ]
+        },
+        "key": ""
+    }
+}
